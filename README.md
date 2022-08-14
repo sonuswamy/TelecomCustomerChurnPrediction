@@ -1,1 +1,1 @@
-# TelegramCustomerChurnPrediction
+# TelecomCustomerChurnPrediction
